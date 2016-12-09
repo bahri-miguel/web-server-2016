@@ -1,1 +1,42 @@
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: 10px;
+}
 
+.navbar-brand img {
+  margin: 0 auto;
+  width: 20%;
+}
+
+.navbar > .container .navbar-brand,
+.navbar > .container-fluid .navbar-brand {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.icon-nav {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  list-style: none;
+  text-align: center;
+}
+
+.icon-nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.icon-nav li a {
+  color: #333;
+}
+.navbar-default {
+      background-image: linear-gradient(to bottom, #FFEB3B 0%, #f8f8f8 100%);
+}
+.icon-nav {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    list-style: none;
+    text-align: center;
+    color: grey;
+}

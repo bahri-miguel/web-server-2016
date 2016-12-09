@@ -1,0 +1,25 @@
+<div class="col-xs-12 col-md-6">
+</div>
+
+<div class="col-xs-12 col-md-6">
+<h3>Nosotros</h3>
+<div class="col-xs-12">
+  <ul>
+    El Taller de Hojalatería y Pintura Bahri llevá una trayectoria<br>
+    desde Octubre del 1998.
+  </ul>
+  <ul>
+    Establecido en nuestro actual moderno edificio desde <br>
+    Mayo del 2005.
+  </ul>
+  <ul>
+    Taller Bahri es atendido por su propio dueño, quien goza <br>
+    de buen prestigio y reputación en el mercado, José M. Bahri Jovet
+  </ul>
+  <ul>
+    El Sr. Bahri es miembro del Colegio de Técnicos y Mecánicos <br>
+    Automotrices y posee la licencia de Técnicos Automotrices del <br>
+    Departamento del Estado de Puerto Rico
+  </ul>
+</div>
+</div>
