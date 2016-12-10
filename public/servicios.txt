@@ -1,54 +1,66 @@
-<div class="col-xs-12 col-md-6">
-</div>
-
-<div class="col-xs-12 col-md-6">
-
-    <h4>Servicio al Cliente</h4>
-    <ul>
-      Nos enorgullece poder honrar nuestro lema 'Somos Diferentes'<br>
-      a través de la eficiencia, el trato cortes y humano a todos <br>
-      nuestros clientes
-    </ul>
-    <ul>
-      Se ofrece orientación sobre todo lo relacionado con reparación <br>
-      de su vehículo y reclamación a su seguro.
-    </ul>
-    <ul>
-      Contamos con un moderno sistema computadorizado para preparar <br>
-      estimados con todas las variaciones en el mercado, costos de <br>
-      materiales y piezas actualizadas.
-    </ul>
-    <ul>
-      Servicio de grúa
-    </ul>
-    <ul>
-    Todo trabajo garantizado
-    </ul>
-  </div>
-  <div class="col-xs-12 col-md-6">
-  </div>
-
-  <div class="col-xs-12 col-md-6">
-    <h4>Facilidades</h4>
-      <ul>
-        Contamos con una amplia y moderna cabina que elimina partículas <br>
-        no deseadas en el prcuto terminado, mientras protegemos nuestro <br>
-        ambiente libre de contaminación.
-      </ul>
-      <ul>
-        Maquinaria para enderezar chasis
-      </ul>
-    </div>
+<div class="container">
+  <div class="row">
     <div class="col-xs-12 col-md-6">
+      <img id="rotulo"src="assets/images/rotulo.jpg" alt="" width="500px">
     </div>
 
-    <div class="col-xs-12 col-md-6">
-      <h4>Materiales</h4>
-      <ul>
-        Suplidores de reconocidas marcas.
-      </ul>
-      <ul>
-      Productos de alta calidad
-      </ul>
+    <div class="col-xs-12 col-md-6 block">
+
+        <h4>Servicio al Cliente</h4>
+        <ul>
+          Nos enorgullece poder honrar nuestro lema 'Somos Diferentes'<br>
+          a través de la eficiencia, el trato cortes y humano a todos <br>
+          nuestros clientes
+        </ul>
+        <ul>
+          Se ofrece orientación sobre todo lo relacionado con reparación <br>
+          de su vehículo y reclamación a su seguro.
+        </ul>
+        <ul>
+          Contamos con un moderno sistema computadorizado para preparar <br>
+          estimados con todas las variaciones en el mercado, costos de <br>
+          materiales y piezas actualizadas.
+        </ul>
+        <ul>
+          Servicio de grúa
+        </ul>
+        <ul>
+        Todo trabajo garantizado
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-md-6">
+        <img src="assets/images/maquina.jpg" alt="" width="500px">
+      </div>
+      <div class="col-xs-12 col-md-6 block">
+        <h4>Facilidades</h4>
+          <ul>
+            Contamos con una amplia y moderna cabina que elimina partículas <br>
+            no deseadas en el prcuto terminado, mientras protegemos nuestro <br>
+            ambiente libre de contaminación.
+          </ul>
+          <ul>
+            Maquinaria para enderezar chasis
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-md-6">
+          <img id="rotulo"src="assets/images/ninopintando1.jpg" alt="" width="500px">
+        </div>
+
+        <div class="col-xs-12 col-md-6 block">
+          <h4>Materiales</h4>
+          <ul>
+            Suplidores de reconocidas marcas.
+          </ul>
+          <ul>
+          Productos de alta calidad
+          </ul>
+
+    </div>
+
+  </div>
 
 </div>

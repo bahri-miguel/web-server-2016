@@ -2,6 +2,10 @@
     margin-left: 10px;
 }
 
+.navbar {
+  margin-bottom: 0;
+}
+
 .navbar-brand img {
   margin: 0 auto;
   width: 20%;
@@ -24,13 +28,18 @@
 .icon-nav li {
   display: inline-block;
   margin: 0 10px;
+  border: 0;
 }
 
 .icon-nav li a {
   color: #333;
 }
 .navbar-default {
-      background-image: linear-gradient(to bottom, #FFEB3B 0%, #f8f8f8 100%);
+    /*background-image: linear-gradient(to bottom, #4e4d47 0%, #f8f8f8 100%);*/
+    background-color: #000;
+    background-image: none;
+    border-color: #000;
+    border-radius: 0;
 }
 .icon-nav {
     padding: 0;
@@ -38,5 +47,34 @@
     width: 100%;
     list-style: none;
     text-align: center;
-    color: grey;
+    color: rgba(255, 255, 0, 0.7);
+    margin-top: 130px;
+    padding-bottom: 20px;
+}
+.block {
+    border: 3px solid #10b6e0;
+    margin-top: 10px
+}
+h4, .h4 {
+    font-size: 31px;
+    font-family: 'Lobster Two', cursive;
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h3, .h3 {
+    font-size: 35px;
+    font-family: 'Lobster Two', cursive;
+}
+h2, .h2 {
+    font-size: 30px;
+    font-family: 'Lobster Two', cursive;
+}
+.content-wrapper {
+    padding-top: 30px;
+}
+img#rotulo {
+    margin-top: 10px;
 }

@@ -1,12 +1,26 @@
-<h3>Contacto</h3>
-Horarios: <br>
-Lunes a Viernes: 7am - 4pm <br>
-Sábados: 9am-12pm (CITA PREVIA) <br>
+<div class="container">
+  <div class="row ">
+    <div class="col-xs-12 col-md-6">
+      <div class="row">
+        <div class="col-xs-12 block">
+          <h3>Contacto</h3>
+          Horarios: <br>
+          Lunes a Jueves: 7am - 5pm <br>
+          Viernes: 8am - 4pm <br>
+          Sábados: 9am-12pm (CITA PREVIA) <br>
+        </div>
+        <div class="col-xs-12 block">
+          <h2> Dirección</h2> <br>
+          Ave. Américo Miranda #1554 <br>
+          Caparra Terrace, San Juan 00921 <br>
+          <b> Télefono:787.706.8118 <br>
+          <b> Email: taller_bahri@hotmail.com <br>
+        </div>
+      </div>
+    </div>
 
-<h2> Dirección</h2> <br>
-Ave. Américo Miranda #1554 <br>
-Caparra Terrace, San Juan 00921 <br>
-<b> Télefono:787.706.8118 <br>
-<b> Email: taller_bahri@hotmail.com <br>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3785.922335774758!2d-66.09171678510903!3d18.396385487481442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c0368538f640305%3A0x5b00740a1ac02908!2s1554+Av.+Americo+Miranda%2C+San+Juan%2C+00921!5e0!3m2!1sen!2spr!4v1481243642601" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+   <div class="col-xs-12 col-md-6 block">
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3785.922335774758!2d-66.09171678510903!3d18.396385487481442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c0368538f640305%3A0x5b00740a1ac02908!2s1554+Av.+Americo+Miranda%2C+San+Juan%2C+00921!5e0!3m2!1sen!2spr!4v1481243642601" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+   </div>
+   </div>
+</div>
