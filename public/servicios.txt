@@ -6,10 +6,10 @@
 
     <div class="col-xs-12 col-md-6 block">
 
-        <h4>Servicio al Cliente</h4>
+        <h4>Servicio al cliente</h4>
         <ul>
-          - Nos enorgullece poder honrar nuestro lema 'Somos Diferentes'
-          a través de la eficiencia, el trato cortes y humano a todos
+          - Nos enorgullece poder honrar nuestro lema 'Somos diferentes'
+          a través de la eficiencia, el trato cortés y humano a todos
           nuestros clientes.
         </ul>
         <ul>
@@ -41,7 +41,7 @@
             ambiente libre de contaminación.
           </ul>
           <ul>
-            - Maquinaria para enderezar chasis.
+            - Maquinaria para enderezar chasis
           </ul>
         </div>
       </div>
@@ -53,10 +53,10 @@
         <div class="col-xs-12 col-md-6 block">
           <h4>Materiales</h4>
           <ul>
-            - Suplidores de reconocidas marcas.
+            - Suplidores de reconocidas marcas
           </ul>
           <ul>
-          - Productos de alta calidad.
+          - Productos de alta calidad
           </ul>
 
     </div>
