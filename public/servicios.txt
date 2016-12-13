@@ -37,7 +37,7 @@
         <h4>Facilidades</h4>
           <ul>
             -Contamos con una amplia y moderna cabina que elimina partículas
-            no deseadas en el prcuto terminado, mientras protegemos nuestro
+            no deseadas en el producto terminado, mientras protegemos nuestro
             ambiente libre de contaminación.
           </ul>
           <ul>
