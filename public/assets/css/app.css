@@ -53,7 +53,7 @@
 }
 .block {
     background: #10b6e0;
-    family-font: 'Roboto Condensed', sans-serif;
+    family-font: 'Work Sans', sans-serif;
     margin-top: 10px;
     color: white;
 }
@@ -63,21 +63,21 @@
 }
 h4, .h4 {
     font-size: 35px;
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 ul, ol {
     margin-top: 0;
     margin-bottom: 18px;
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 15px
 }
 h3, .h3 {
     font-size: 35px;
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 h2, .h2 {
     font-size: 35px;
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 .content-wrapper {
     padding-top: 30px;
@@ -96,4 +96,5 @@ img#rotulo {
 iframe,
 img {
   width: 100%;
+  padding-top: 10px;
 }
