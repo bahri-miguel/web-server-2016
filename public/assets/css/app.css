@@ -57,6 +57,10 @@
     margin-top: 10px;
     color: white;
 }
+.block.header {
+  display: inline-block;
+  padding: 10px;
+}
 h4, .h4 {
     font-size: 35px;
     font-family: 'Lobster Two', cursive;
@@ -87,4 +91,9 @@ img#rotulo {
     margin-right: auto;
     margin-left: auto;
     margin-top: 10px;
+}
+
+iframe,
+img {
+  width: 100%;
 }
