@@ -107,6 +107,7 @@ img {
 
 @media (max-width: 768px) and (min-width: 484px) {
   .navbar-brand img {
-    width: 50%;
+    width: 30%;
   }
+
 }
